@@ -1,0 +1,7 @@
+Following is the list of actual owners and copyright notices for different data sets I use. The local copies are
+for my personal use only and if you chose to use this data in your work, kindly fetch yours directly from the source
+and provide appropritate citations for the same.
+
+Data Sourced from the WEB
+
+1) ENB2012_data.xlsx http://archive.ics.uci.edu/ml/datasets/Energy+efficiency
